@@ -125,7 +125,7 @@ button {
     display: inline-flex;
     justify-content: center;
     padding: 50px 200px;
-    margin: 100px 400px;
+    margin: 400px 100px;
 }
 
 .cta-time-txt {
