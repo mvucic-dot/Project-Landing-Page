@@ -120,21 +120,24 @@ button {
 .cta-time {
     background-color: #3882F6;
     border-radius: 5px;
-    text-align: center;
     color: white;
-    display: inline-flex;
-    justify-content: center;
-    padding: 50px 200px;
-    margin: 400px 100px;
+    display: flex;
+    
+    gap: 50px;
+    padding: 50px;
+    margin: 100px 200px;
 }
 
 .cta-time-txt {
     text-align: left;
-    margin-right: 150px;
+    margin-left: 150px;
 }
 
 .cta-time button {
     border: 1px solid white;
+    padding: 5px 25px;
+    margin-left: 300px;
+    margin-top: 20px;
 }
 
 footer {
